@@ -1,0 +1,34 @@
++ - dodawanie liczb i łaczenie ciagów tekstowych 
+np. 2+3 => 5 lub" Hello"+ "World" => "Hello World"
+- - odejmowanie liczb 
+np. 5 - 3 => 2 
+/ - dzielenie liczb (w wyniku jest float) 
+np. 11 / 2 => 5.5
+// - dzielenie całkowite - dzielenie z zaokrągleniem liczby w dół 
+np. 11 / 2 => 5
+% - reszta z dzielenia - oblicza reszte z dzielenia, 
+np. 11 % 5 => 1
+< - mniejsze niż - sprawdzanie czy wartość jest mniejsza, 
+np. 2 < 3 => True
+>= - większe lub równe - sprawdzanie czy wartość jest większa lub równa, 
+np. 3 >= 3 => True
+> - większe niż - sprawdzanie czy wartość jest większa, 
+np. 3 > 4 => False
+<= - mniejsze lub równe - sprawdzanie czy wartość jest mniejsza lub równa, 
+np. 4 <= 5 => True
+** - potęgowanie - obliczanie potęgi danej liczby, 
+np. 2 ** 3 = 8
+and - operator logiczny "i" - łączenie warunków logicznych (warunek A i warunek B), 
+np. True and False => False , False and False => False, True and True => True , False and True => False
+or - operator logiczny "lub" - łączenie warunków logicznych (warunek A i warunek B), 
+np. True or False => True , True and True = True , False and False => False , False and True => True
+is - operator identyczności - sprawdzanie czy dwie zmienne wskazują na ten sam obiekt, 
+np. a is b => True (jeśli a i b wskazują na ten sam obiekt)
+not - operator logiczny "nie" - negacja warunku logicznego (nieprawda że warunek jest spełniony), 
+np.  not True => False
+in - operator zawierania w sekwencji - sprawdzenie czy element jest zawarty w sekwencji, 
+np. 3 in [1,2,3] => True
+== - równość - sprawdzanie czy dwie wartości są równe 
+np. 3 == 3 => True 
+=! - nierówność - sprawdzanie czy dwie wartości są nierówne
+np. 3 =! 3 => False
